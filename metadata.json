@@ -1,0 +1,6 @@
+{
+  "name": "آمن سيبراني",
+  "description": "نظام نيكسوس المتكامل للأمن السيبراني والتحليل الذكي للثغرات - لوحة التحكم والمحاكاة الدفاعية والتعليمية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
